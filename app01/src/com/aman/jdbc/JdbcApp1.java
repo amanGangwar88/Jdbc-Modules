@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
-
+//This code is not Working in my Laptop because of DSN name
 public class JdbcApp1 {
 
 	public static void main(String[] args)throws Exception {
